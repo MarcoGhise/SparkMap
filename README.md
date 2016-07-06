@@ -5,10 +5,10 @@ Download the GeoLite City file from http://dev.maxmind.com/geoip/legacy/geolite/
 
 config.properties
 
-file.geoipcity=<geocity>.dat
+file.geoipcity=&lt;geocity&gt;.dat
 
-hadoop.home.dir=<winutil path>
+hadoop.home.dir=&lt;winutil path&gt;
 
-file.log=<log file>
+file.log=&lt;log file&gt;
 
-file.output=<output file>.json
+file.output=&lt;output file&gt;.json
