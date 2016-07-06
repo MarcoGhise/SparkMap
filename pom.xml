@@ -32,7 +32,6 @@
 
 	</dependencies>
 
-
 	<build>
 		<plugins>
 			<plugin>
