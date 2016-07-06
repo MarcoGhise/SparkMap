@@ -1,5 +1,5 @@
 # SparkMap
-Repository for Blog https://techannotation.wordpress.com/
+Repository for Post https://techannotation.wordpress.com/2016/07/06/introduction-to-apache-spark/
 
 Download the GeoLite City file from http://dev.maxmind.com/geoip/legacy/geolite/ and copy the location to config.properties file (key file.geoipcity).
 
